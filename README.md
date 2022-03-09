@@ -2,4 +2,4 @@
 - 'git clone <URL> ...
 - 'git branch <NAME> : creates <NAME> 
 - 'git switch <NAME> : switch to branch <NAME>
-
+- The PR (pull request) will update if you push new changes
